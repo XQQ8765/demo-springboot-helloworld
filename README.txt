@@ -13,7 +13,7 @@ a. Generate the Eclipse project files:
 b. Then open your Eclipse to import the project.
 
 -------------------------------------------------------------------
-1. Start Eureka Server
+1. Start up the "sprint boot" application
 How to build:
 > cd demo-springboot-helloworld
 > mvn clean package
@@ -22,6 +22,5 @@ How to Startup:
 > cd demo-springboot-helloworld\target\
 > java -jar demo-springboot-helloworld-1.0-SNAPSHOT.jar
 
-URL Links:
-#Visit the micro-service link:
+URL Link:
     http://localhost:8080/
