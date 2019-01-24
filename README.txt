@@ -1,4 +1,4 @@
-This project is a demo for a "hello world" micro-service.
+This project is a "hello world" demo for micro-service built by "spring boot".
 
 -------------------------------------------------------------------
 h1. Precondition:
